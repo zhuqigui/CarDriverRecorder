@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_name">行车记录仪</string>
+    <string name="back">返回</string>
+    <string name="record_quality">录像质量</string>
+    <string name="picture_quality">照相质量</string>
+    <string name="record_duration">录像时间</string>
+    <string name="format_sdcard">格式化SD卡</string>
+
+    <string name="default_picture_quality">1080P</string>
+    <string name="default_record_quality">1080P</string>
+    <string name="default_record_duration">1min</string>
+
+    <string name="space_not_enough">空间不足</string>
+    <string name="operating_camera">正在操作摄像头!</string>
+
+    <string name="lock_video">紧急视频</string>
+    <string name="front_video">前录视频</string>
+    <string name="back_video">后录视频</string>
+    <string name="picture">照片</string>
+
+    <string name="commont_settings">通用设置</string>
+    <string name="front_settings">前摄像头</string>
+    <string name="back_settings">后摄像头</string>
+
+    <string name="settings_mute">录音</string>
+    <string name="settings_watermark">视频水印</string>
+    <string name="settings_record_quality">视频分辨率</string>
+    <string name="settings_picture_quality">照片分辨率</string>
+    <string name="settings_record_duration">录像时间</string>
+
+    <string name="record_init_time">00:00:00</string>
+
+    <string name="settings_app_auto_start">应用开机自启动</string>
+    <string name="settings_file_storage_path">文件存储路径</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="cvbs1">Cvbs1</string>
+    <string name="cvbs2">Cvbs2</string>
+    <string name="nightvideo">微光夜视</string>
+    <string name="rgbvideo">RGB摄像头</string>
+    <string name="filllight">补光</string>
+    <!--string name="back">返回</string-->
+</resources>

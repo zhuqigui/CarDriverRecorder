@@ -1,0 +1,47 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/doubleRecordFL">
+
+    <!-- 前录 -->
+    <FrameLayout
+        android:id="@+id/frontFL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <SurfaceView
+            android:id="@+id/frontRecordSV"
+            android:background="@android:color/transparent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </FrameLayout>
+
+    <!--<SurfaceView-->
+        <!--android:id="@+id/frontRecordSV"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent" />-->
+
+    <!--<SurfaceView-->
+        <!--android:id="@+id/backRecordSV"-->
+        <!--android:layout_gravity="bottom|right"-->
+        <!--android:layout_width="240dp"-->
+        <!--android:layout_height="160dp" />-->
+
+    <!-- 后录 -->
+    <FrameLayout
+        android:id="@+id/backFL"
+        android:layout_gravity="bottom|right"
+        android:layout_width="270dp"
+        android:layout_height="180dp">
+
+        <SurfaceView
+            android:id="@+id/backRecordSV"
+            android:background="@android:color/transparent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+
+</FrameLayout>

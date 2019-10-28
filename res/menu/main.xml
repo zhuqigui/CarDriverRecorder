@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/recordBtn"
+        android:icon="@drawable/ic_fiber_manual_record_grey_400_48dp"
+        android:title="Record"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/recordLockBtn"
+        android:icon="@drawable/ic_lock_open_grey_400_48dp"
+        android:title="RecordLock"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/takePictureBtn"
+        android:icon="@drawable/ic_camera_alt_grey_400_48dp"
+        android:title="TakePicture"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/videoFileBtn"
+        android:icon="@drawable/ic_local_movies_grey_400_48dp"
+        android:title="VideoFile"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/recordSettingsBtn"
+        android:icon="@drawable/ic_settings_grey_400_48dp"
+        android:title="RecordSettings"
+        app:showAsAction="always"/>
+
+</menu>

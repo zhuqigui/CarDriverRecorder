@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="picture_quality">
+        <item>720</item>
+        <item>1080</item>
+    </array>
+
+    <array name="picture_quality_name">
+        <item>720P</item>
+        <item>1080P</item>
+    </array>
+
+    <array name="record_quality">
+        <item>720</item>
+        <item>1080</item>
+    </array>
+
+    <array name="record_quality_name">
+        <item>720P</item>
+        <item>1080P</item>
+    </array>
+
+    <array name="record_duration">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+
+    <array name="record_duration_name">
+        <item>1min</item>
+        <item>2min</item>
+        <item>3min</item>
+    </array>
+
+    <array name="file_tab">
+        <item>前路视频</item>
+        <item>后路视频</item>
+        <item>紧急视频</item>
+        <item>照片</item>
+    </array>
+
+    <array name="settings_tab">
+        <item>通用设置</item>
+        <item>前摄像头</item>
+        <item>后摄像头</item>
+    </array>
+</resources>
